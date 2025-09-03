@@ -30,3 +30,6 @@ python app.py
 - POST /api/auth/signup
 - POST /api/profile/preferences
 - GET  /api/trends?region=강남구
+
+***
+백엔드 자세한 코드는 브랜치를 참고하시면 됩니다
