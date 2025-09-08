@@ -1,35 +1,33 @@
-# 소담(Sodam) Backend Starter (Flask)
+# SODAM Backend (Fixed, No Circular Import)
 
-## Quickstart
+A minimal Flask backend with auth and recommendation endpoints.
+
+## Run (macOS/Linux)
+
 ```bash
-# 1) Create & activate venv
 python -m venv .venv
-# Windows: .venv\Scripts\activate
-# macOS/Linux: source .venv/bin/activate
-
-# 2) Install deps
+source .venv/bin/activate
 pip install -r requirements.txt
 
-# 3) Copy env
-cp .env.example .env
+# set PYTHONPATH to project root if needed
+export PYTHONPATH=$(pwd)
 
-# 4) DB init (SQLite)
-flask --app app:create_app db init
-flask --app app:create_app db migrate -m "init"
-flask --app app:create_app db upgrade
+# initialize DB (SQLite)
+flask --app backend.wsgi db init
+flask --app backend.wsgi db migrate -m "init"
+flask --app backend.wsgi db upgrade
 
-# 5) Run
-python app.py
-# visit: http://localhost:5000/home
+# run
+flask --app backend.wsgi run -p 5000 --debug
 ```
 
-## Endpoints (initial)
-- GET  /home, /about
-- GET  /api/ping
-- POST /api/echo
-- POST /api/auth/signup
-- POST /api/profile/preferences
-- GET  /api/trends?region=강남구
+### Endpoints
+- `GET /api/v1/health`
+- `POST /api/v1/auth/register` — body: `{ "email": "...", "password": "...", "name": "..." }`
+- `POST /api/v1/auth/login` — body: `{ "email": "...", "password": "..." }`
+- `POST /api/v1/recs/score` — body: `{ "features": { "foot_traffic": 0.7, ... } }`
+- `GET  /api/v1/recs/sample`
 
-***
-백엔드 자세한 코드는 브랜치를 참고하시면 됩니다
+### Notes
+- JWT/DB are wired; default DB is `sqlite:///app.db`.
+- The scoring function lives in `backend/services/scoring.py`; blueprints import from there, avoiding circular imports.
