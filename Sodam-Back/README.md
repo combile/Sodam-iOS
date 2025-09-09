@@ -1,4 +1,4 @@
-d# 소담(SODAM) Backend API
+# 소담(SODAM) Backend API
 
 소상공인을 위한 상권 진단 및 사업 추천 플랫폼의 백엔드 API 서버입니다.
 
