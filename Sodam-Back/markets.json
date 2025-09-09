@@ -1,0 +1,415 @@
+{
+  "data": {
+    "markets": [
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc591\ucc9c\uad6c",
+        "market_code": 10000,
+        "market_name": "\ubaa9\ub3d9\uc5ed1\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uac15\uc11c\uad6c",
+        "market_code": 10001,
+        "market_name": "\uae4c\uce58\uc0b0\uc5ed2\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uac15\uc11c\uad6c",
+        "market_code": 10002,
+        "market_name": "\uc11c\uc6b8\ud654\uace14\ub3d9\uc6b0\uccb4\uad6d",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uac15\uc11c\uad6c",
+        "market_code": 10003,
+        "market_name": "\uc6b0\uc7a5\uc0b0\uc5ed4\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uac15\uc11c\uad6c",
+        "market_code": 10004,
+        "market_name": "\uc11c\uc6b8\ud654\uace1\ubcf8\ub3d9\uc6b0\ud3b8\ucde8\uae09\uad6d",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uac15\uc11c\uad6c",
+        "market_code": 10005,
+        "market_name": "\ub9c8\uace1\uc5ed7\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uac15\uc11c\uad6c",
+        "market_code": 10006,
+        "market_name": "\ub9c8\uace1\uc5ed4\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uac15\uc11c\uad6c",
+        "market_code": 10007,
+        "market_name": "\uc774\ub300\uc11c\uc6b8\ubcd1\uc6d0 \uc815\ub958\uc7a5",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uac15\uc11c\uad6c",
+        "market_code": 10008,
+        "market_name": "\uc2a4\ud398\uc774\uc2a4K",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uac15\uc11c\uad6c",
+        "market_code": 10009,
+        "market_name": "\ubc1c\uc0b0\uc5ed9\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uac15\uc11c\uad6c",
+        "market_code": 10010,
+        "market_name": "\ub9c8\uace1\ub098\ub8e8\uc5ed1\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uac15\uc11c\uad6c",
+        "market_code": 10011,
+        "market_name": "\ubc29\uc2e0\uc7ac\ub798\uc2dc\uc7a5",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uad6c\ub85c\uad6c",
+        "market_code": 10012,
+        "market_name": "\uc774\ube44\uce74\ub4dc\ud130\ubbf8\ub110\uc2dc\uc678\ud130\ubbf8\ub110",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uae08\ucc9c\uad6c",
+        "market_code": 10013,
+        "market_name": "\uac00\uc0b0\ub514\uc9c0\ud138\ub2e8\uc9c0\uc5ed3\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uad6c\ub85c\uad6c",
+        "market_code": 10014,
+        "market_name": "\uc11c\uc6b8\uad6c\ub85c4\ub3d9\uc6b0\uccb4\uad6d",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc601\ub4f1\ud3ec\uad6c",
+        "market_code": 10015,
+        "market_name": "\uc11c\uc6b8\ubb38\ub798\ub3d9\uc6b0\uccb4\uad6d",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc591\ucc9c\uad6c",
+        "market_code": 10016,
+        "market_name": "\uc624\ubaa9\uad50\uc5ed8\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc591\ucc9c\uad6c",
+        "market_code": 10017,
+        "market_name": "\ubaa91\uc9c0\uad6c\ub300",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc591\ucc9c\uad6c",
+        "market_code": 10018,
+        "market_name": "\ub4f1\ucd0c\uc5ed4\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uae08\ucc9c\uad6c",
+        "market_code": 10019,
+        "market_name": "\uc2dc\ud7651\ub3d9\uc8fc\ubbfc\uc13c\ud130",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc601\ub4f1\ud3ec\uad6c",
+        "market_code": 10020,
+        "market_name": "\uc601\ub4f1\ud3ec\uc6b0\uccb4\uad6d",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc601\ub4f1\ud3ec\uad6c",
+        "market_code": 10021,
+        "market_name": "\uc601\ub4f1\ud3ec\uc5ed5\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc601\ub4f1\ud3ec\uad6c",
+        "market_code": 10022,
+        "market_name": "\uc601\ub4f1\ud3ec\ub3d9\uc8fc\ubbfc\uc13c\ud130",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc601\ub4f1\ud3ec\uad6c",
+        "market_code": 10023,
+        "market_name": "\uc601\ub4f1\ud3ec\uad6c\uccad\uc5ed5\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\ub9c8\ud3ec\uad6c",
+        "market_code": 10024,
+        "market_name": "\ub9dd\uc6d01\ub3d9\uc8fc\ubbfc\uc13c\ud130",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc601\ub4f1\ud3ec\uad6c",
+        "market_code": 10025,
+        "market_name": "\uc11c\uc6b8\uc5ec\uc758\ub3c4\uad11\uc7a5\uc6b0\uccb4\uad6d",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\ub9c8\ud3ec\uad6c",
+        "market_code": 10026,
+        "market_name": "\ud569\uc815\uc5ed2\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\ub9c8\ud3ec\uad6c",
+        "market_code": 10027,
+        "market_name": "\ud64d\ub300\uc785\uad6c\uc5ed3\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\ub9c8\ud3ec\uad6c",
+        "market_code": 10028,
+        "market_name": "\ud64d\ub300\uc785\uad6c\uc5ed9\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc740\ud3c9\uad6c",
+        "market_code": 10029,
+        "market_name": "\uc751\uc554\ub3d9 \uac10\uc790\uad6d \uac70\ub9ac",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc740\ud3c9\uad6c",
+        "market_code": 10030,
+        "market_name": "\uc5f0\uc2e0\ub0b4\uc5ed6\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uad00\uc545\uad6c",
+        "market_code": 10031,
+        "market_name": "\uc2e0\ub9bc\uc5ed4\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uad00\uc545\uad6c",
+        "market_code": 10032,
+        "market_name": "\uc2e0\ub9bc\uc5ed6\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\ub3d9\uc791\uad6c",
+        "market_code": 10033,
+        "market_name": "\ubcf4\ub77c\ub9e4\ubcd1\uc6d0\uc5ed2\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uad00\uc545\uad6c",
+        "market_code": 10034,
+        "market_name": "\uc2e0\ub9bc\uc5ed7\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uad00\uc545\uad6c",
+        "market_code": 10035,
+        "market_name": "\uc2e0\ub9bc\uc5ed2\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\ub3d9\uc791\uad6c",
+        "market_code": 10036,
+        "market_name": "\uc2e0\ub300\ubc29\uc0bc\uac70\ub9ac\uc5ed1\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uad00\uc545\uad6c",
+        "market_code": 10037,
+        "market_name": "\uad00\uc545\uc0b0\uc9c0\uad6c\ub300",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\ub3d9\uc791\uad6c",
+        "market_code": 10038,
+        "market_name": "\ub178\ub7c9\uc9c4119\uc548\uc804\uc13c\ud130",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc601\ub4f1\ud3ec\uad6c",
+        "market_code": 10039,
+        "market_name": "\uc11c\uc6b8\uc5ec\uc758\ub300\ubc29\ub85c\uc6b0\ud3b8\ucde8\uae09\uad6d",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc11c\ub300\ubb38\uad6c",
+        "market_code": 10040,
+        "market_name": "\uc2e0\ucd0c\uc5ed3\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc11c\ub300\ubb38\uad6c",
+        "market_code": 10041,
+        "market_name": "\uc815\uc74c\ucca0\ubb3c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uc740\ud3c9\uad6c",
+        "market_code": 10042,
+        "market_name": "\ubd88\uad11\uc5ed6\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uad00\uc545\uad6c",
+        "market_code": 10043,
+        "market_name": "\uc11c\uc6b8\ub300\uc785\uad6c\uc5ed1\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uad00\uc545\uad6c",
+        "market_code": 10044,
+        "market_name": "\uc11c\uc6b8\ubd09\ucc9c\ucd08\ub4f1\ud559\uad50",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uad00\uc545\uad6c",
+        "market_code": 10045,
+        "market_name": "\uc11c\uc6b8\ub300\uc785\uad6c\uc5ed3\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\uad00\uc545\uad6c",
+        "market_code": 10046,
+        "market_name": "\ubd09\ucc9c\uc5ed1\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\ub3d9\uc791\uad6c",
+        "market_code": 10047,
+        "market_name": "\uc22d\uc2e4\ub300\uc785\uad6c\uc5ed2\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\ub9c8\ud3ec\uad6c",
+        "market_code": 10048,
+        "market_name": "\uacf5\ub355\uc5ed9\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      },
+      {
+        "city_name": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+        "coordinates": [],
+        "district_name": "\ub9c8\ud3ec\uad6c",
+        "market_code": 10049,
+        "market_name": "\ub9c8\ud3ec\uc5ed2\ubc88 \ucd9c\uad6c",
+        "market_type": "\uc8fc\uc694\uc0c1\uad8c"
+      }
+    ],
+    "pagination": {
+      "has_more": true,
+      "limit": 50,
+      "offset": 0,
+      "total": 1227
+    }
+  },
+  "message": "\uc0c1\uad8c \ubaa9\ub85d\uc744 \uc131\uacf5\uc801\uc73c\ub85c \uc870\ud68c\ud588\uc2b5\ub2c8\ub2e4.",
+  "success": true,
+  "timestamp": "2025-09-09T13:17:33.154714"
+}

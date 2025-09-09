@@ -1,0 +1,24 @@
+API 개방데이터 조회 결과
+목록
+API 서비스명 (국문)	소상공인 업종별 생존율/폐업율 현황
+API 서비스명 (영문)	getSchtwrIndutyBeingClsbizSttus
+API URL	http://bigdata.daejeon.go.kr/openApi/6300000/
+getSchtwrIndutyBeingClsbizSttus/getSchtwrIndutyBeingClsbizSttuslist?pageNo=1&numOfRows=10
+API 설명	소상공인 업종별 생존율/폐업율 현황
+API 제공기관	대전광역시
+
+요청변수(Request Parameter)
+항목명(영문)	항목명(국문)	데이터 타입	항목크기	항목설명	예시 데이터	필수여부
+pageNo	페이지	int	10	현재 페이지	2	예
+numOfRows	페이지크기	int	10	한 페이지 목록수	10	예
+lclas_cd	대분류 업종 코드	varchar	1	대분류 업종 코드	J	아니오
+mlsfc_cd	중분류 업종 코드	varchar	2	중분류 업종 코드	61	아니오
+
+응답변수(Response Parameter)
+항목명(영문)	항목명(국문)	데이터 타입	항목크기	항목설명	예시 데이터
+lclas_cd	대분류 업종 코드	varchar	10	대분류 업종 코드	J
+lclas_nm	대분류 업종 명	varchar	60	대분류 업종 명	정보통신업
+mlsfc_cd	중분류 업종 코드	varchar	10	중분류 업종 코드	61
+mlsfc_nm	중분류 업종 명	varchar	60	중분류 업종 명	우편 및 통신업
+being_rate	생존율	numeric	10	생존율	88.3
+clsbiz_rate	폐업율	numeric	10	폐업율	11.77
